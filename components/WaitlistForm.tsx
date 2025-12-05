@@ -72,9 +72,9 @@ export function WaitlistForm() {
           <div className="w-16 h-16 bg-[#1DB954] rounded-full flex items-center justify-center mx-auto">
             <CheckCircle className="w-8 h-8 text-white" />
           </div>
-          <h3 className="text-2xl font-bold text-white">You're on the list!</h3>
+          <h3 className="text-2xl font-bold text-white">You&apos;re on the list!</h3>
           <p className="text-gray-300">
-            Thanks — you're on the list! We'll email you when we launch.
+            Thanks — you&apos;re on the list! We&apos;ll email you when we launch.
           </p>
         </div>
       ) : (

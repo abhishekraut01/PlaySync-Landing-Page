@@ -39,7 +39,7 @@ export function Features() {
             <span className="text-[#1DB954]">seamless listening</span>
           </h2>
           <p className="text-lg sm:text-xl text-gray-400 max-w-2xl mx-auto">
-            Everything you need to listen together, nothing you don't.
+            Everything you need to listen together, nothing you don&apos;t.
           </p>
         </div>
 

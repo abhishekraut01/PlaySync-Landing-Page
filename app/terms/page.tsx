@@ -64,7 +64,7 @@ export default function TermsPage() {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-white mt-8">Limitation of Liability</h2>
             <p>
-              PlaySync is provided "as is" without warranties of any kind. We are not liable for
+              PlaySync is provided &quot;as is&quot; without warranties of any kind. We are not liable for
               any damages arising from your use of the service.
             </p>
           </section>

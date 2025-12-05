@@ -51,7 +51,7 @@ export function SocialProof() {
                 <Quote className="w-10 h-10 text-[#1DB954]/30" />
 
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  "{testimonial.quote}"
+                  &quot;{testimonial.quote}&quot;
                 </p>
 
                 <div className="flex items-center gap-4 pt-4 border-t border-[#2A2A2A]">

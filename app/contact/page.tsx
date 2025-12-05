@@ -25,7 +25,7 @@ export default function ContactPage() {
 
         <div className="space-y-8">
           <p className="text-xl text-gray-300">
-            Have questions? We'd love to hear from you. Get in touch with the PlaySync team.
+            Have questions? We&apos;d love to hear from you. Get in touch with the PlaySync team.
           </p>
 
           <div className="grid md:grid-cols-2 gap-6">
@@ -81,7 +81,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold text-lg mb-2">When will PlaySync launch?</h3>
                 <p className="text-gray-400">
-                  We're currently in early access. Join the waitlist to be notified when we launch publicly.
+                  We&apos;re currently in early access. Join the waitlist to be notified when we launch publicly.
                 </p>
               </div>
               <div>

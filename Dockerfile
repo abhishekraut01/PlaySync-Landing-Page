@@ -12,6 +12,8 @@ RUN npm install --frozen-lockfile
 FROM base AS builder
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
+# Create public directory if it doesn't exist
+RUN mkdir -p public
 RUN npm run build
 
 # ---------- Run production build ----------
